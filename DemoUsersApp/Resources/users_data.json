@@ -1,0 +1,72 @@
+[
+  {
+    "id": 7432306,
+    "name": "Chandrani Agarwal DDS",
+    "email": "chandrani_dds_agarwal@murazik.example",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 7430404,
+    "name": "Asha Bandopadhyay",
+    "email": "asha_bandopadhyay@baumbach.example",
+    "gender": "female",
+    "status": "inactive"
+  },
+  {
+    "id": 7430403,
+    "name": "Vedanshi Kaniyar DO",
+    "email": "do_kaniyar_vedanshi@fritsch.example",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 7430402,
+    "name": "Bhadra Ganaka IV",
+    "email": "ganaka_iv_bhadra@bruen.test",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 7430400,
+    "name": "Sushil Naik IV",
+    "email": "iv_naik_sushil@schumm.test",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 7430399,
+    "name": "Ashok Khan",
+    "email": "khan_ashok@dooley-jacobs.example",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 7430398,
+    "name": "Naval Devar",
+    "email": "naval_devar@kilback.example",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 7430397,
+    "name": "Atmaja Kaur",
+    "email": "kaur_atmaja@moore.test",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 7430396,
+    "name": "Sheela Devar",
+    "email": "sheela_devar@schuppe-huels.example",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 7430395,
+    "name": "Digambar Chattopadhyay Ret.",
+    "email": "ret_digambar_chattopadhyay@paucek.example",
+    "gender": "female",
+    "status": "active"
+  }
+]
